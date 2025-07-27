@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884595121886",
+    "project_id": "bookstokabish",
+    "storage_bucket": "bookstokabish.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884595121886:android:af6b1304641e1d3e362c4f",
+        "android_client_info": {
+          "package_name": "com.example.booktok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKWf0djhun7y6xXZnloDZf1bz_HOah3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
